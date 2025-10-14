@@ -1,2 +1,2 @@
-# VCRP
-This is my repository lol
+# DeltaOS
+This is the DeltaOS Repository
